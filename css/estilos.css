@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Rambla');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rambla', sans-serif;
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+#acerca {
+  padding: 30px;
+  max-width: 600px;
+  margin: 40px auto;
+  background: white;
+  border-radius: 10px;
+}
+
+#acerca h2 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+#acerca p {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #333;
+}
+
+#acerca img {
+  margin-top: 20px;
+  border-radius: 8px;
+  border: 3px solid #1abc9c;
+}
