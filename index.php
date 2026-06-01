@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Práctica 12-Gpo XB</title>
-<link rel="stylesheet" href="css/estilos.css"/>
+<link rel="stylesheet" href="CSS/estilos.css"/>
 <link rel="stylesheet" href="css/menu.css"/>
 <link rel="stylesheet" href="css/problemas.css"/>
 <link href="https://fonts.googleapis.com/css?family=Rambla" rel="stylesheet">
