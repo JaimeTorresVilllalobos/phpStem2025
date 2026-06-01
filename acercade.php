@@ -22,7 +22,7 @@
   <p><b>Número de control:</b> 23091054</p>
   <p><b>Materia y grupo:</b> Programacion web - Grupo XB</p>
   <div class="foto">
-  <img src="imágenes/foto.jpg" alt="Foto del estudiante" width="300">
+<img src="im%C3%A1genes/foto.jpg" alt="Foto del estudiante" width="300">
   </div>
 </div>
 </body>
